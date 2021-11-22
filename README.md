@@ -11,5 +11,5 @@ The files were executed under Mathematica 12 running under Windows 10, on a 64-b
 i7-7500 @ 2.7 GHz), with 8 Gb of memory. Check62Vectors executes in less than a minute, but LegalMatchingsBetterBound_Version_13_November_2021 takes somewhat longer,
 approximately 1 hour.
 
-
+22nd November 2021.
 
