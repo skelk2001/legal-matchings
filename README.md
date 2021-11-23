@@ -5,11 +5,14 @@ The Check62Vectors.nb file is an annotated Mathematica file verifying that the 6
 
 Check62Vectors.pdf is a PDF export of the Mathematica file, after running it to termination.
 
-LegalMatchingsBetterBound_Version_13_November_2021.nn is an annotated Mathematica file verifying that the 64 vectors achieving the slightly improved bound of O((19/12)^n), and which are discussed in the last part of the paper, also have the desired properties. The PDF file is the output of this file.
+LegalMatchingsBetterBound_Version_13_November_2021.nb is an annotated Mathematica file verifying that the 64 vectors achieving the slightly improved bound of O((19/12)^n), and which are discussed in the last part of the paper, also have the desired properties. The PDF file is the output of this file.
 
 The files were executed under Mathematica 12 running under Windows 10, on a 64-bit HP Envy Laptop 13-ad0xx (quad-core
 i7-7500 @ 2.7 GHz), with 8 Gb of memory. Check62Vectors executes in less than a minute, but LegalMatchingsBetterBound_Version_13_November_2021 takes somewhat longer,
 approximately 1 hour.
 
-22nd November 2021.
+Any queries, don't hesitate to let us know.
+
+Steven Kelk, 22nd November 2021.
+on behalf of all co-authors
 
